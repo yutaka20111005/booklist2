@@ -6,6 +6,8 @@ book info for individual learning
 
 対象　　：ビギナー(For beginner)
 
+
+
 ### 1. 動作環境
 OS : Ubuntu 22.04.3
 
@@ -18,12 +20,21 @@ https://fastapi.tiangolo.com/
 
 補足(Supplementary info)：Flask予定を変更し、FastAPIがAPI作成の観点でBetterな評判も多いため、試行。
 
+
+
+
+
 ### 2.　サンプル
 
 完成イメージ：
 
 #### 2-1.
 動作コマンド
+
+
+
+
+
 
 
 ### 3. その他（利用例）
