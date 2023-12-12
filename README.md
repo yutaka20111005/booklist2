@@ -3,6 +3,7 @@ book info for individual learning
 
 # 独学のための書籍一覧
 更新日時：2023/12/12(Tue)
+
 対象　　：ビギナー(For beginner)
 
 ### 1. 動作環境
