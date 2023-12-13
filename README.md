@@ -9,11 +9,13 @@ book info for individual learning
 
 
 ### 1. 動作環境
-OS : Ubuntu 22.04.3
+OS     : Ubuntu 22.04.3 
 
-Python : 3.10.12
+Python : Python 3.10.12
 
-FastAPI : 
+fastapi：0.104.1
+
+uvicorn：0.24.0.post1
 
 #### 1-1. FastAPI 参照URL
 https://fastapi.tiangolo.com/
@@ -30,11 +32,20 @@ https://fastapi.tiangolo.com/
 
 #### 2-1.
 動作コマンド
+uvicorn app.main:app --reload
+
+
+動作確認コマンド
 
 
 
+【参考】FastAPIならではの。
 
+http://127.0.0.1:8000/doc
 
+http://127.0.0.1:8000/redoc
+
+http://127.0.0.1:8000/openapi.json
 
 
 ### 3. その他（利用例）
