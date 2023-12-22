@@ -35,8 +35,12 @@ https://fastapi.tiangolo.com/
 uvicorn app.main:app --reload
 
 
-動作確認コマンド
+動作確認
+コマンド例）
+・curl http://127.0.0.1:8000/books/6?q=python3
 
+ブラウザ 下記例）
+・http://127.0.0.1:8000/books/13?q=python3
 
 
 【参考】FastAPIならではの。
