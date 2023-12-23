@@ -40,6 +40,7 @@ uvicorn main:app --reload
 
 
 動作確認
+
 コマンド例）
 ・curl http://127.0.0.1:8000/books/6?q=python3
 
