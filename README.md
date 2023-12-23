@@ -32,7 +32,11 @@ https://fastapi.tiangolo.com/
 
 #### 2-1.
 動作コマンド
-uvicorn app.main:app --reload
+git clone https://github.com/yutaka20111005/booklist2.git
+
+cd booklist2
+
+uvicorn main:app --reload
 
 
 動作確認
@@ -40,7 +44,7 @@ uvicorn app.main:app --reload
 ・curl http://127.0.0.1:8000/books/6?q=python3
 
 ブラウザ 下記例）
-・http://127.0.0.1:8000/books/13?q=python3
+・http://127.0.0.1:8000/books/1357?q=python3
 
 
 【参考】FastAPIならではの。
